@@ -1,0 +1,2 @@
+# Cocola
+CI/CD process
